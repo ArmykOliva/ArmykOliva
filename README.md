@@ -60,7 +60,7 @@ I'm an expert Python developer, full-stack developer, and an automation engineer
 
 ### 📫 How to Reach Me
 
-- **Email**: [krystof@email.com](mailto:krystof@email.com)
+- **Email**: [krystof.olik@gmail.com](mailto:krystof.olik@gmail.com)
 - **Languages**: Fluent in Czech, German and English.
 
 ---
